@@ -1,0 +1,24 @@
+{
+  "persons": [
+    {
+      "name": "Maru!",
+      "phone": "123-456-789",
+      "street": "Calle Falsa",
+      "city": "Barcelona",
+      "id": "81702472-38c4-11ec-8d3d-0242ac130003"
+    },
+    {
+      "name": "Tito",
+      "phone": "333-456-789",
+      "street": "Calle Trati",
+      "city": "Madrid",
+      "id": "988fe5f2-38c4-11ec-8d3d-0242ac130003"
+    },
+    {
+      "name": "Yioyo",
+      "street": "Calle Trufa",
+      "city": "Valencia",
+      "id": "9b88613a-38c4-11ec-8d3d-0242ac130003"
+    }
+  ]
+}
